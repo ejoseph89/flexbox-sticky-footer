@@ -21,7 +21,7 @@ header {
 
 main {
   margin: 0 auto;
-  width: 50ch;
+  max-width: 30ch;
 
   border: 1px solid green;
 
