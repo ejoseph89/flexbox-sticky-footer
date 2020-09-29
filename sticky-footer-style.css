@@ -1,0 +1,38 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+
+  min-height: 100vh;
+}
+
+main {
+  flex: 1;
+}
+
+header {
+  background-color: rebeccapurple;
+  padding: 1em;
+  color: white;
+  text-align: center;
+
+  border: 1px solid yellow;
+
+}
+
+main {
+  margin: 0 auto;
+  width: 50ch;
+
+  border: 1px solid green;
+
+}
+
+footer {
+  background: #777;
+  color: #fff;
+  text-align: center;
+  padding: 1em;
+
+  border: 1px solid yellow;
+
+}
